@@ -1,0 +1,23 @@
+{
+  "name": "navdurga_pediatric_dental_centre",
+  "version": "1.0.0",
+  "description": "Code base for Navdurga Pediatric Dental Centre's Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AkshayShenvi/Navdurga_pediatric_dental_centre.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AkshayShenvi/Navdurga_pediatric_dental_centre/issues"
+  },
+  "homepage": "https://github.com/AkshayShenvi/Navdurga_pediatric_dental_centre#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "react-bootstrap": "^1.0.1"
+  }
+}

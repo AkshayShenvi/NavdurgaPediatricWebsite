@@ -1,0 +1,33 @@
+svg {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
+svg {
+  -webkit-animation: MoveUpDown 1.5s linear infinite;
+          animation: MoveUpDown 1.5s linear infinite;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+}
+@-webkit-keyframes MoveUpDown {
+  0%,
+  100% {
+    bottom: 0;
+  }
+  50% {
+    bottom: 100px;
+  }
+}
+@keyframes MoveUpDown {
+  0%,
+  100% {
+    bottom: 0;
+  }
+  50% {
+    bottom: 100px;
+  }
+}
